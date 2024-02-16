@@ -2,7 +2,7 @@
 
 Commands cover in lecture:
 
-## Echo
+## echo
 ### Definition:
 Display a line of text
 ### Usage

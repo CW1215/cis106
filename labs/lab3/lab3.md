@@ -7,7 +7,6 @@ Assignment: Lab 3
 # Lab 3 Submission
 
 ## Question 1
-![q1.1](q1.1.png)
 ![q1.2](q1.2.png)
 
 ## Question 2

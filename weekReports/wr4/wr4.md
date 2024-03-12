@@ -9,6 +9,6 @@
 ![chpr](wr4chpr1.png)
 ![chpr](wr4chpr2.png)
 ## Practice 3
-![pr3](wr4pr3.png)
+![pr3](wr4p3.png)
 ## Practice 4
-![p4](wr4pr4.png)
+![p4](wr4p4.png)

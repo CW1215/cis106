@@ -16,19 +16,34 @@
 ## What is a web server? Hardware and software side
 Web server hardware is connected to the internet and allows data to be exchanged. Web server software controls how the user accesses hosted files.
 ## What are some different web server applications?
-* Glassfish
-* Zend Server
-* Caddy
-* Jetty
+
+
+| Servers | Link |
+|---------|------|
+| Glassfish | [glassfish.org](https://glassfish.org/)|
+| Zend Server | [zend.com](https://www.zend.com/products/zend-server)
+| Caddy | [caddy.com](https://caddyserver.com/)
+| Jetty | [jetty.com](https://www.jetty.com/)
+---
+
+  
+  
 ## What is virtualization?
 Virtualization is what creates vitural versions of something. For example, mutiple OSs running on one physical machine.
+
+![p1](VBoxpic.jpeg)
 ## What is virtualbox?
 Virtualbox is a vitualization software that allows user to create and run virtual machines
 ## What is a virtual machine?
 It is an operating system/application environment that imitates dedicated hardware
+
+![p2](ubuntulogo.png)
 ## What is Ubuntu Server?
 It is a version of the Ubuntu operating system
 ## What is a firewall?
 A part of a computer system or network which is designed to block unauthorized access while permitting outward communication.
+
+---
+![p3](ssh.jpeg)
 ## What is SSH?
 Secure Shell is a network communication protocol that enables two computers to communicate

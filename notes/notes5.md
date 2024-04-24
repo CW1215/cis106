@@ -1,4 +1,4 @@
-# Notes 4: Handling Text Files
+# Notes 5: Handling Text Files
 
 ## Cat
 * The cat command is used for displaying the contents of a file. It is short for concatenate. There are many options for the cat command.
